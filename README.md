@@ -36,8 +36,14 @@ I am a software developer passionate about building scalable, high-performance w
 
 ## 📈 GitHub Stats
 
-[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=djin47&show_icons=true&theme=radical)](https://github.com/djin47)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djin47&layout=compact&theme=radical)](https://github.com/djin47)
+<div align="center">
+  <a href="https://github.com/djin47">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=djin47&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/djin47">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=djin47&layout=compact&theme=radical" />
+  </a>
+</div>
 
 ## 🔗 Connect with me
 
