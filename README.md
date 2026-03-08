@@ -9,7 +9,7 @@ I am a software developer passionate about building scalable, high-performance w
 - 🏢 I'm currently working as a Software Developer at **Growth Natives**, building dynamic pages and AI-powered support widgets.
 - 💻 I specialize in **Next.js**, **React.js**, and headless CMS migrations (like **Strapi** and **Contentful**).
 - ⚡ I have a strong focus on frontend performance optimization, utilizing advanced React patterns (`useMemo`, `useCallback`, Lazy Loading) to reduce re-renders and improve core web vitals.
-- 🌱 **I’m currently learning:** Advanced backend architectures migrating towards **Java** and **NestJS**, as well as exploring the **Web3** and **DeFi** ecosystem.
+- 🔐 I focus on improving user experience from end-to-end, including optimizing authentication workflows and implementing Keycloak to reduce login times by 20%
 - 🌍 I recently spearheaded internationalization (i18n) for a major financial platform, expanding its reach to Spanish and Portuguese markets.
 - 📫 How to reach me: **[dhruvjindal638@gmail.com](mailto:dhruvjindal638@gmail.com)**
 
